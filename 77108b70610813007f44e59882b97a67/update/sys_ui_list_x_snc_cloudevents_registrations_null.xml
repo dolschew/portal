@@ -117,19 +117,16 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-11-14 15:09:13</sys_created_on>
+            <sys_created_on>2018-01-31 20:47:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>41147b53a18711107f4483614f9dd134</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>0576c734610813007f44e59882b97a77</sys_id>
             <sys_name>x_snc_cloudevents_registrations</sys_name>
-            <sys_package/>
+            <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
             <sys_policy/>
             <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
-            <sys_update_name/>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-11-14 15:09:13</sys_updated_on>
-            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <sys_update_name>sys_ui_list_x_snc_cloudevents_registrations_null</sys_update_name>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

@@ -7,14 +7,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-15 14:09:20</sys_created_on>
         <sys_id>94efe077754711107f4406de762fe51e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>ngTagsInput.css</sys_name>
         <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
         <sys_update_name>sp_css_include_94efe077754711107f4406de762fe51e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-15 14:09:20</sys_updated_on>
         <url/>
     </sp_css_include>
 </record_update>
