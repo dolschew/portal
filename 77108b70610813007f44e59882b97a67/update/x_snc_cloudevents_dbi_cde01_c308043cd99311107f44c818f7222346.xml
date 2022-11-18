@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_cloudevents_dbi_cde01">
     <x_snc_cloudevents_dbi_cde01 action="INSERT_OR_UPDATE">
-        <dbi_cde01_f1>cloud</dbi_cde01_f1>
+        <dbi_cde01_f1>cloud2</dbi_cde01_f1>
         <sys_class_name>x_snc_cloudevents_dbi_cde01</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-18 13:49:00</sys_created_on>
