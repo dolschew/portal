@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd8db720d99311107f44c818f722237d" label="dbi_cde02" max_length="40" name="x_snc_cloudevents_dbi_cde02" type="collection">
+        <element label="Dbi cde02 f1" max_length="80" name="dbi_cde02_f1" type="string"/>
+    </element>
+</database>

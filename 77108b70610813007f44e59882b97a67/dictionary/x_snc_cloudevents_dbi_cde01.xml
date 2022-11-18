@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="865bf36cd95311107f44c818f722238b" extends="sys_metadata" label="dbi_cde01" max_length="40" name="x_snc_cloudevents_dbi_cde01" type="collection">
+        <element label="Dbi cde01 f1" max_length="80" name="dbi_cde01_f1" type="string"/>
+    </element>
+</database>
